@@ -1,0 +1,12 @@
+{
+  "NumFloors": 20,
+  "NumElevators": 4,
+  "MaxPerson": 10,
+  "TimePerFloor": 1000,
+  "DoorOpenTime": 2000,
+  "TimeOut": 10000,
+  "DurationTime": 120000,
+  "CreationRate": 3
+
+
+}
